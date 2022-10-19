@@ -10,7 +10,7 @@ Please use proper validation and data filtering when collecting information usin
 Write the SQL queries to create the database that will store this data. 
  
 
-Share your GIT repository by submitting the URL here: http://springsystems.com/index.php?option=com_rsform&formId=9&Itemid=99999http://springsystems.com/index.php?option=com_rsform&formId=9&Itemid=99999
+Share your GIT repository by submitting the URL here: http://springsystems.com/index.php?option=com_rsform&formId=9&Itemid=99999
 
  
 HAPPY CODING!
